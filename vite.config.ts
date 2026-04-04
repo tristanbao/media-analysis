@@ -12,6 +12,7 @@ function getPlugins() {
 }
 
 export default defineConfig({
+  base: '/media-analysis/',
   plugins: getPlugins(),
   server: {
     historyApiFallback: true,
