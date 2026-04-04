@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B1021"/>
+      <stop offset="0.55" stop-color="#C24178"/>
+      <stop offset="1" stop-color="#FF94B8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <rect x="68" y="68" width="1064" height="584" rx="30" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16"/>
+  <text x="96" y="126" fill="#FFE0EB" font-size="28" font-family="Microsoft YaHei, Segoe UI, sans-serif">COVER REVIEW</text>
+  <text x="96" y="230" fill="white" font-size="60" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">封面图</text>
+  <text x="96" y="302" fill="#FFE0EB" font-size="34" font-family="Microsoft YaHei, Segoe UI, sans-serif">品牌信息明确，但点击驱动不足</text>
+  <rect x="96" y="368" width="268" height="52" rx="26" fill="#FFC1D4"/>
+  <text x="154" y="403" fill="#3A0F1F" font-size="24" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">适合做封面AB测试</text>
+  <text x="96" y="610" fill="#FFE0EB" font-size="24" font-family="Microsoft YaHei, Segoe UI, sans-serif">用于复盘封面图对 CTR 的影响</text>
+</svg>
+
