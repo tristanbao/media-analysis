@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A2406"/>
+      <stop offset="0.55" stop-color="#A86713"/>
+      <stop offset="1" stop-color="#FFD37A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <rect x="68" y="68" width="1064" height="584" rx="30" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16"/>
+  <text x="96" y="126" fill="#FFF3D9" font-size="28" font-family="Microsoft YaHei, Segoe UI, sans-serif">FRAME REVIEW</text>
+  <text x="96" y="230" fill="white" font-size="60" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">关键帧 02</text>
+  <text x="96" y="302" fill="#FFF3D9" font-size="34" font-family="Microsoft YaHei, Segoe UI, sans-serif">功能点存在，但场景锚定不够</text>
+  <rect x="96" y="368" width="252" height="52" rx="26" fill="#FFE4A1"/>
+  <text x="154" y="403" fill="#392305" font-size="24" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">建议补真人场景</text>
+  <text x="96" y="610" fill="#FFF3D9" font-size="24" font-family="Microsoft YaHei, Segoe UI, sans-serif">适合用于讨论是否补充真实穿着镜头</text>
+</svg>
+

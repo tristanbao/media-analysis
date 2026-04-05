@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07152C"/>
+      <stop offset="0.55" stop-color="#123A7A"/>
+      <stop offset="1" stop-color="#1E63C7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <circle cx="960" cy="140" r="190" fill="#F8C84C" fill-opacity="0.22"/>
+  <circle cx="220" cy="600" r="220" fill="white" fill-opacity="0.06"/>
+  <rect x="60" y="60" width="1080" height="600" rx="28" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.14"/>
+  <text x="96" y="122" fill="#D5E5FF" font-size="28" font-family="Microsoft YaHei, Segoe UI, sans-serif" letter-spacing="2">BOSIDENG CREATIVE PREVIEW</text>
+  <text x="96" y="236" fill="white" font-size="64" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">EH设计师访谈视频</text>
+  <text x="96" y="306" fill="#D5E5FF" font-size="34" font-family="Microsoft YaHei, Segoe UI, sans-serif">微博版正片海报 · 开场节奏偏慢</text>
+  <rect x="96" y="370" width="220" height="54" rx="27" fill="#F8C84C"/>
+  <text x="150" y="405" fill="#091426" font-size="24" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">示例素材</text>
+  <rect x="840" y="470" width="240" height="108" rx="24" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.16"/>
+  <text x="932" y="540" fill="white" font-size="54" font-family="Segoe UI Symbol, Microsoft YaHei, sans-serif">▶</text>
+  <text x="96" y="610" fill="#C0D5FF" font-size="24" font-family="Microsoft YaHei, Segoe UI, sans-serif">用于与 AI 诊断、负面评价和投放指标进行对照查看</text>
+</svg>
+

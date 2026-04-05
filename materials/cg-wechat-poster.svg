@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1732"/>
+      <stop offset="0.55" stop-color="#2460B7"/>
+      <stop offset="1" stop-color="#7CC4FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <circle cx="962" cy="148" r="182" fill="#8AD1FF" fill-opacity="0.20"/>
+  <rect x="60" y="60" width="1080" height="600" rx="28" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.14"/>
+  <text x="96" y="122" fill="#D7EDFF" font-size="28" font-family="Microsoft YaHei, Segoe UI, sans-serif">BOSIDENG CREATIVE PREVIEW</text>
+  <text x="96" y="236" fill="white" font-size="64" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">功能CG视频</text>
+  <text x="96" y="306" fill="#D7EDFF" font-size="34" font-family="Microsoft YaHei, Segoe UI, sans-serif">微信视频号版正片海报 · 科技感强于生活感</text>
+  <rect x="96" y="370" width="220" height="54" rx="27" fill="#9ED9FF"/>
+  <text x="150" y="405" fill="#0A1931" font-size="24" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">示例素材</text>
+  <rect x="840" y="470" width="240" height="108" rx="24" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.16"/>
+  <text x="932" y="540" fill="white" font-size="54" font-family="Segoe UI Symbol, Microsoft YaHei, sans-serif">▶</text>
+  <text x="96" y="610" fill="#D7EDFF" font-size="24" font-family="Microsoft YaHei, Segoe UI, sans-serif">用于验证科技感表达是否过强、生活场景是否不足</text>
+</svg>
+

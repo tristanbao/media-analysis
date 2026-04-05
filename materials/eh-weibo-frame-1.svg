@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C1036"/>
+      <stop offset="0.55" stop-color="#6B2FB3"/>
+      <stop offset="1" stop-color="#D164FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <rect x="68" y="68" width="1064" height="584" rx="30" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16"/>
+  <text x="96" y="126" fill="#F1DDFF" font-size="28" font-family="Microsoft YaHei, Segoe UI, sans-serif">FRAME REVIEW</text>
+  <text x="96" y="230" fill="white" font-size="60" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">关键帧 01</text>
+  <text x="96" y="302" fill="#F4E9FF" font-size="34" font-family="Microsoft YaHei, Segoe UI, sans-serif">人物访谈占比高，产品钩子较弱</text>
+  <rect x="96" y="368" width="252" height="52" rx="26" fill="#F7B7FF"/>
+  <text x="148" y="403" fill="#2A0D48" font-size="24" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">品牌信息偏后置</text>
+  <circle cx="960" cy="154" r="160" fill="white" fill-opacity="0.08"/>
+  <text x="96" y="610" fill="#F1DDFF" font-size="24" font-family="Microsoft YaHei, Segoe UI, sans-serif">适合对照前3秒卖点呈现与留存流失判断</text>
+</svg>
+
